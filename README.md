@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Onakalu Emmanuel
-- 👀 I’m interested in UI/UX designs
+- 👀 I’m interested in UI/UX designs and Web development
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me 07062587707(whatsapp)
 
